@@ -1,4 +1,3 @@
 my:
   greetings: Hello from config Server
-  list:
-    values: One, Two, Three, Four
+  
